@@ -1,0 +1,87 @@
+header {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-bottom: 90px;
+}
+
+
+.text{
+    font-family: Oswald;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 148px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.right-top {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.nav-link{
+    color: #FFFFFF;
+    font-family: Inter;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hov:hover{
+    color: #FFFFFF;
+}
+
+.act{
+    background-color: #000000;
+    opacity: 60%;
+}
+
+.back-to-index{
+    padding: 5px 0px 30px;
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.back-to-index a{
+    color: #000000;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.back-to-index a:hover{
+    text-decoration: none;
+}
+
+footer{
+    font-family: Oswald;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.card-text{
+    font-family: Oswald;
+    font-size: larger;
+}
+
+.card-body span{
+    font-family: Oswald;
+    color: #585858;
+}
